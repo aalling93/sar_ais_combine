@@ -2,6 +2,10 @@
 
 # external requirements
 numpy
+mgrd
+geopandas
+cartopy
+
 scikit-learn
 scipy
 pandas
@@ -14,3 +18,7 @@ clearml
 plotly
 seaborn
 tensorflow
+
+#pip install -i https://test.pypi.org/simple/ sentinel-1-python
+#pip install -i https://test.pypi.org/simple/ infer-ship-detection
+#pip install -i https://test.pypi.org/simple/ sar-ship-detection
