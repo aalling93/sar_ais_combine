@@ -1,0 +1,16 @@
+# You need Python3..
+
+# external requirements
+numpy
+scikit-learn
+scipy
+pandas
+matplotlib
+jupyter
+jupyterlab
+ipykernel
+ipython
+clearml
+plotly
+seaborn
+tensorflow
